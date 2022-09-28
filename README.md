@@ -4,7 +4,7 @@ Segundo projeto que desenvolvi em toda a minha vida com HTML5 e CSS3
 
 >Status: Concluido✔️
 
-Com a temática da série original do PrimeVideo "The Boys", foi re-desenhado o conceito da tela de seleção de usuário, com o objetivo de me familiarizar com as duas linguagens abordadas.
+Com a temática da série original do PrimeVideo "The Boys", foi re-desenhado o conceito da tela de seleção de usuário, com o objetivo de me familiarizar com as duas tecnologias abordadas.
 
 ## Consta com as seguintes mudanças:
 
