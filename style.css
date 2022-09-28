@@ -1,0 +1,179 @@
+* {
+    padding: 0;
+    margin: auto 0;
+}
+
+body {
+    background-image: url(https://i.imgur.com/u44CCpb.png); 
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: black;
+    position: relative;
+    display: grid;
+    place-items: center;
+}
+
+.logo-prime { 
+    max-width: 125px;
+    padding: 15px;
+    opacity: 80%;
+    position: fixed;
+    left: 5px;
+}
+
+h1 {
+    margin-top: 80px;
+    text-align: center;
+    color: #fdc100;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.center {
+    justify-content: center;
+    display: flex;
+    max-width: 1500px;
+    max-height: 180px;
+}
+
+.container {
+    text-align: center;
+    display: flex;
+}
+
+.billyImage {
+    max-width: 135px;
+    border-radius: 50%;
+    box-shadow: 0px 5px 15px 0px black;
+    transition: transform 0.5s;
+    transform: scale(1);
+}
+
+.billyImage:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.t1 {
+    padding-top: 5px;
+    color: #fdc100;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    opacity: 75%;
+    font-size: 17px;
+}
+
+.frenchImage {
+    max-width: 135px;
+    border-radius: 50%;
+    box-shadow: 0px 5px 15px 0px black;
+    transition: transform 0.5s;
+    transform: scale(1);
+}
+
+.frenchImage:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.t2 {
+    padding-top: 5px;
+    color: #fdc100;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    opacity: 75%;
+    font-size: 17px;
+}
+
+.leitinhoImage {
+    max-width: 135px;
+    border-radius: 50%;
+    box-shadow: 0px 5px 15px 0px black;
+    transition: transform 0.5s;
+    transform: scale(1);
+}
+
+.leitinhoImage:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.t3 {
+    padding-top: 5px;
+    color: #fdc100;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    opacity: 75%;
+    font-size: 17px;
+}
+
+.hughieImage {
+    max-width: 135px;
+    border-radius: 50%;
+    box-shadow: 0px 5px 15px 0px black;
+    transition: transform 0.5s;
+    transform: scale(1);
+}
+
+.hughieImage:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.t4 {
+    padding-top: 5px;
+    color: #fdc100;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    opacity: 75%;
+    font-size: 17px;
+    max-height: 17px;
+}
+
+.P1 {
+    margin: 15px;
+    max-height: auto;
+    max-width: 135px;
+}
+
+.P2 {
+    margin: 15px;
+    max-height: 180px;
+    max-width: 135px;
+}
+
+.P3 {
+    margin: 15px;
+    max-height: 180px;
+    max-width: 135px;
+}
+
+.P4 {
+    margin: 15px;
+    max-height: 180px;
+    max-width: 135px;
+}
+
+.button {
+    margin-top: 40px;
+}
+
+button {
+    background-color: #292929;
+    max-height: auto;
+    margin: auto 0;
+    border: 0;
+    color: #fdc100;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    border-radius: 4px;
+    padding: 10px;
+    transition: 1s;
+    opacity: 75%;
+}
+
+button:hover {
+    cursor: pointer;
+    opacity: 100%;
+}
