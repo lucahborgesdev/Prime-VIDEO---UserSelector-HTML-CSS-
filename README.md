@@ -10,17 +10,17 @@ Com a temática da série original do PrimeVideo "The Boys", foi re-desenhado o 
 
 ### Consta com as seguintes mudanças:
 
->Conceito da página
+>Conceito da página📙
 + Imagem de fundo atualizadas
 + Animações 'hover' adicionada nas fotos de perfil dos usuários, alterando a escala da imagem.
 
 ![antes-e-depois-PV](https://user-images.githubusercontent.com/100325007/192886775-7f110e7c-a682-42eb-9733-61800ad9ba79.gif)
 
-> Links relevantes
+> Links relevantes🔗
 + [Projeto no CodePen](https://codepen.io/lucahborges/full/abGBRmX);
 + [Meu Twitter](https://twitter.com/lucahborges_25);
 + [Meu LinkedIn](https://www.linkedin.com/in/lucas-henrique-borges-b66565211/);
 
->Créditos
+>Créditos©️
 + Imagem de fundo: [@randallrandomm on Twitter](https://twitter.com/RandallRandomm?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 + Direitos da série: Amazon Prime Video
