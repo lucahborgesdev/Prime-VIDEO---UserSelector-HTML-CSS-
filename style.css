@@ -177,3 +177,42 @@ button:hover {
     cursor: pointer;
     opacity: 100%;
 }
+
+/* informações pessoais */
+
+.infos {
+    margin-top: 385px;
+    text-align: center;
+}
+h3 {
+    color: #fdc100;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: #292929;
+    opacity: 90%;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    margin: 15px;
+    margin-top: 5px;
+}
+
+.links {
+    color: #fdc100;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px;
+}
+
+a:link {
+    color: #8d8d8d;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #8d8d8d;
+}
