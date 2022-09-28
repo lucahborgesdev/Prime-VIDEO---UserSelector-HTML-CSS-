@@ -8,15 +8,8 @@ Com a temática da série original do PrimeVideo "The Boys", foi re-desenhado o 
 
 ## Consta com as seguintes mudanças:
 
->Usuários
-+ Billy
-+ Frenchie
-+ Milk
-+ Hughie
-
 >Conceito da página
-+ Imagem de fundo atualizada.
-+ Botão "Editar Perfil" recriado.
++ Imagem de fundo atualizadas
 + Animações 'hover' adicionada nas fotos de perfil dos usuários, alterando a escala da imagem.
 
 >Créditos
